@@ -16,15 +16,17 @@ Zhang, Youshan. (2019). Lung segmentation with NASNet-Large-Decoder Net.
 Zhang, Y., Davison, B. D., Talghader, V. W., Chen, Z., Xiao, Z., & Kunkel, G. J. (2021, November). Automatic head overcoat thickness measure with NASNet-large-decoder net. In Proceedings of the Future Technologies Conference (pp. 159-176). Springer, Cham.
 `
 
-The lung dataset is available at [this link](https://doi.org/10.5281/zenodo.7191406).
+The lung dataset is available at [this link](https://drive.google.com/file/d/1DUlkaMCJzSMxrf_gMP1aQaVn6Vmt-3mi/view?usp=sharing).
 
 
 <p align="center">
   <img src="./files/compare.png" width="50%"> 
 </p>
+<p align="center"> Ground truth VS prediction results</p>
 
 
 
 <p align="center">
   <img src="./files/lung_re.png" width="50%"> 
 </p>
+<p align="center"> Segmentation results comparison </p>
