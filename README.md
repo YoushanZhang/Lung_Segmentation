@@ -18,6 +18,13 @@ Zhang, Y., Davison, B. D., Talghader, V. W., Chen, Z., Xiao, Z., & Kunkel, G. J.
 
 The lung dataset is available at [this link](https://doi.org/10.5281/zenodo.7191406).
 
+
+<p align="center">
+  <img src="./files/compare.png" width="50%"> 
+</p>
+
+
+
 <p align="center">
   <img src="./files/lung_re.png" width="50%"> 
 </p>
